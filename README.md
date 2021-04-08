@@ -1,6 +1,6 @@
 # Employee Directory
 
-![Photo of Application]()
+![Photo of Application](./public/assets/employee-directory.png)
 
 
 # Link to Application
